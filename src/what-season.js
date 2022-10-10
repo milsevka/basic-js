@@ -12,8 +12,11 @@ const { NotImplementedError } = require('../extensions/index.js');
  * 
  */
 function getSeason(/* date */) {
+  // const winter = [12, 1, 2];
+  // const spring = [3, 4, 5];
+  // const summer = [6, 7, 8];
+  // const autumn = [9, 10, 11];
   throw new NotImplementedError('Not implemented');
-  // remove line with error and write your code here
 }
 
 module.exports = {
