@@ -40,10 +40,6 @@ for (let i = 0; i < domains.length; i++) {
 }
 
 return obj
-// for (let i = 0; i < domains.length; i++) {
-// arr.push(domains[i].split('.'))
-// }
-// return arr.flat().join('.')
 }
 
 module.exports = {
